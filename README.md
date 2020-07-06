@@ -24,13 +24,13 @@ Happy learning!
 
 * [Mismatch](https://mitpress.mit.edu/books/mismatch) (book by Kat Holmes, which is the best book I've read on Inclusive Design)
 
-## Learning about the Web Content Accessibility Guidelines
+## Learning about the Web Content Accessibility Guidelines (WCAG)
 
 * https://www.w3.org/TR/WCAG21/ (W3C official)
 
 The following resources cover the same guidelines (or sometimes more), but are written to be easier to read:
 
-* [Kin + Carta's plain-language summary of the Web Content Accessibility Guidelines](https://theappbusiness.github.io/accessibility-guidelines/)
+* [JF Hector's plain language summary of the WCAG](https://jfhector.github.io/accessibility-guidelines/)
 
 * [Deque's Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 
