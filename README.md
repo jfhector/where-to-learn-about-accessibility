@@ -56,10 +56,6 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 ## Getting your questions answered
 
-* #topic-accessibility on TAB’s Slack
-
-* #grp-topic-a11y on TAB’s or K+C’s Slack
-
 * Web-a11y.slack.com (Open to everyone. Ask @jfhector or anyone who’s already in to send you an invite)
 
 * #a11y on Twitter
