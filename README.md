@@ -34,8 +34,6 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * [Deque's Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
 
-* [BBC Mobile Accessibility Guidelines](https://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/summary)
-
 ## Learning about how people with disabilities use websites and apps
 
 * [Web Accessibility Perspectives videos](https://www.w3.org/WAI/perspective-videos/) (W3C)
