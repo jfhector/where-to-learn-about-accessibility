@@ -38,6 +38,8 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * [Web Accessibility Perspectives videos](https://www.w3.org/WAI/perspective-videos/) (W3C)
 
+* [A11y Rules Soundbite podcast](https://a11yrules.com/series/a11y-rules-soundbite/) (Nicholas Steenhout)
+
 * [Personas for Accessible UX](https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/) (from the book A Web For Everyone)
 
 * [Certified Accessibility Professional Core Competencies preparation course](https://dequeuniversity.com/curriculum/courses/iaap-cpacc#iaap-cpacc) (Deque, $45)
