@@ -62,6 +62,12 @@ The following resources cover the same guidelines (or sometimes more), but are w
 
 * You can also ask any question and get experts' answers quickly on [WebAIM mailing list](https://webaim.org/discussion/)
 
+## To understand the social and political aspects of Disability
+
+* [Mismatch](https://mitpress.mit.edu/books/mismatch) by Kat Holmes
+
+* [Series of short blog posts "Understanding Disability"](https://www.drakemusic.org/blog/nim-ralph/understanding-disability-part-5-the-social-model/) by Nim Ralph
+
 ## Resources that require some knowledge about web development
 
 * [Rob Dodson’s A11ycast Youtube Short Videos Series](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) (Google)
